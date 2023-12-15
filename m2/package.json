@@ -1,0 +1,13 @@
+{
+  "name": "m2",
+  "version": "1.0.0",
+  "description": "Microservice M2 for RabbitMQ task processing",
+  "main": "worker.js",
+  "scripts": {
+    "start": "node worker.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.1",
+    "winston": "^3.11.0"
+  }
+}
