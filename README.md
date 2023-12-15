@@ -7,9 +7,8 @@
 
 ```bash
 # Шаг 1: Клонирование репозитория
-git clone <[URL репозитория](https://github.com/AmrkaAyt/green-api.git
-)>
-cd <green-api>
+git clone https://github.com/AmrkaAyt/green-api.git
+cd green-api
 
 # Шаг 2: Установка зависимостей
 npm install
